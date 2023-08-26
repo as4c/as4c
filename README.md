@@ -2,8 +2,10 @@
   <h1>Hi there, I'm Sagar! 👋</h1>
   <h3>An enthusiastic Software Developer</h3>
 </div>
+
 * I'm a self learner and Problem Solver.
-* How to reach me sagarkumarsameer@gmail.com
+
+* How to reach me sagarkumarsameer@gmail.com.
 
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=as4c&show_icons=true&theme=radical" />
