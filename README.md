@@ -1,4 +1,11 @@
-# Hi there, I'm Sagar! 👋
+<div align="center">
+  <h1>Hi there, I'm Sagar! 👋</h1>
+  <hr/>
+  <h3>An enthusiastic developer</h3>
+</div>
+
+* How to reach me sagarkumarsameer@gmail.com
+
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=as4c&show_icons=true&theme=radical" />
 
