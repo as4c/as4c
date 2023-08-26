@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hi there, I'm Sagar! 👋</h1>
-
   <h3>An enthusiastic Software Developer</h3>
 </div>
-
+* I'm a self learner and Problem Solver.
 * How to reach me sagarkumarsameer@gmail.com
 
 
