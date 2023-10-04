@@ -10,9 +10,9 @@
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=as4c&show_icons=true&theme=radical" />
 
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=as4c&layout=compact" />
+<img align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=as4c&layout=compact" /> </br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-<img align = "left"  src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br/><img align = "left"  src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <img align = "left"  src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
